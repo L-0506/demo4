@@ -63,12 +63,12 @@ a:hover{
 .box1 .text .price span{
 	font-size:36px;}
 .box1{
-	background-image: url(../../%E7%AC%AC%E4%B8%83%E6%AC%A1%E4%BD%9C%E4%B8%9A/images/h-12.jpg);}
+	background-image: url(images/h-12.jpg);}
 .box1 .text{
 	margin-left:20%;
 	margin-top:15%;}
 .box2{
-	background-image: url(../../%E7%AC%AC%E4%B8%83%E6%AC%A1%E4%BD%9C%E4%B8%9A/images/h-8.jpg);}
+	background-image: url(images/h-8.jpg);}
 .box2 .text{
 	margin-left:55%;
 	margin-top:10%;}
@@ -90,7 +90,7 @@ a:hover{
 	text-decoration:none;
 	padding-left:230px;}
 .box3{
-	background-image: url(../../%E7%AC%AC%E4%B8%83%E6%AC%A1%E4%BD%9C%E4%B8%9A/images/h-13.jpg);}
+	background-image: url(images/h-13.jpg);}
 .box3 .text{
 	margin-left:30%;
 	margin-top:30%;}
@@ -112,7 +112,7 @@ a:hover{
 	text-decoration:none;
 	padding-left:250px;}
 .box4{
-	background: #666 url(../../%E7%AC%AC%E4%B8%83%E6%AC%A1%E4%BD%9C%E4%B8%9A/images/bg.png)
+	background: #666 url(images/bg.png)
 	no-repeat center bottom;}
 .box4 .text{
 	margin-left:30%;
@@ -136,7 +136,7 @@ a:hover{
 	padding-left:230px;}
 
 .box5{
-	background-image: url(../../%E7%AC%AC%E4%B8%83%E6%AC%A1%E4%BD%9C%E4%B8%9A/images/h-24.jpg);}
+	background-image: url(images/h-24.jpg);}
 .box5 .text{
 	margin-left:15%;
 	margin-top:20%;}
@@ -155,7 +155,7 @@ a:hover{
 	color:#ff6700;
 	text-decoration:none;}
 .box6{
-	background-image: url(../../%E7%AC%AC%E4%B8%83%E6%AC%A1%E4%BD%9C%E4%B8%9A/images/h-21.jpg);}
+	background-image: url(images/h-21.jpg);}
 .box6 .text{
 	margin-left:30%;
 	margin-top:20%;}
